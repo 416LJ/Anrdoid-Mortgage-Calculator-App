@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Laxsan Jeyasingam Assignment1</string>
+    <string name="Principle">Principle Amount :&#160;&#160;</string>
+    <string name="Interest_Rate">Interest Rate :&#160;&#160; </string>
+    <string name="Years">Loan Term in Years :&#160;&#160; </string>
+    <string name="Calculate">Calculate</string>
+    <string name="Monthly_Payments">Monthly Payment :&#160;&#160; </string>
+    <string name="Total_Payments">Total Interest Owed :&#160;&#160; </string>
+
+</resources>
